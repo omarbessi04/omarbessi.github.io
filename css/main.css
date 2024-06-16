@@ -1,0 +1,25 @@
+body{
+    background-color: #272727
+}
+
+.custom-navbar-color{
+    background-color: #7B6D8D;
+}
+
+h1, h2, h3, p {
+    color: #009FB7;
+}
+
+.nav-link, .navbar-brand{
+    color: white
+}
+
+hr{
+    width: 90%; 
+    color: #7B6D8D;
+    margin: auto;
+}
+
+#project_title{
+    color: #7B6D8D;
+}
